@@ -23,9 +23,9 @@ Technologies Used: React Native, Firebase Database, Firebase Storage, Expo Cli, 
 </pre>
 
 ## Challenges:
-- No one knew react native and we learned while doing
+- No one knew react native before starting the project and we learned while doing
 - A lot of deprecated libraries and dependency management problems
-- Sometimes it worked on android version, but not on the web version, and sometimes in reverse.
+- Sometimes the code only worked on the android version, but not on the web version, and sometimes the other way around.
 
 ## What we wanted to do but we didn't have time:
 
@@ -50,7 +50,9 @@ Technologies Used: React Native, Firebase Database, Firebase Storage, Expo Cli, 
 ## Who are we?
 - Colleagues, programmers and a lot of other names, but, most important, friends.
 
-![us](https://github.com/chelceacalin/SaveMe/assets/76866499/cb30dfeb-3bfe-49a0-b026-2a14de0ce8dc)
+<p align="center">
+<img src=https://github.com/chelceacalin/SaveMe/assets/76866499/cb30dfeb-3bfe-49a0-b026-2a14de0ce8dc>
+</p>
 
 
 
